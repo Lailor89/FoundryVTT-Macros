@@ -1,4 +1,4 @@
-//Animate Object attack Macro by Lailor
+//Animate Objects attack Macro by Lailor
 //Configs
 //set to 0 for no AC controll for your dm
 let dmAcCheck = 1;
