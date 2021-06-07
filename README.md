@@ -2,12 +2,14 @@
 
 Hello everyone,
 
+-----------------------------
 *UPDATE*
 
 -I added a new Version for Foundry 0.8.6
 
 -The new Version now always misses on a nat 1 ( somehow i missed that :[ )
 
+------------------------------
 
 
 
