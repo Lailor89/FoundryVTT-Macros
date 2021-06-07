@@ -32,10 +32,15 @@ Keep in mind, you have to use midi-qol and Advanced Macros in your Foundry World
 How to:
 
 -Enable the “Macro on Use” Option in the Workflow settings of Midi-Qol (Admin only)
+
 -create a new script macro and copy the content of “Animate Objects Attack.js”
+
 -Create a new Cantrip on the token you want to use as the attacker, with nothing in it, except the name of the macro in the “On Use Macro” field.
+
 -Select 1 Enemy and your AO token ( or your caster if you play without a extra token)
+
 -Cast the Cantrip.
+
 -Choose your Options and click one of the buttons to attack.
 
 I hope somebody won’t have to do the work and use this :)
